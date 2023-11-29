@@ -5,6 +5,6 @@
 - 📫 How to reach me ...
 
 <!---
-Okky9okil/Okky9okil is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Okky9okilz/Okky9okilz is a ✨ special ✨ repository because .
 You can click the Preview link to take a look at your changes.
 --->
